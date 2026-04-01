@@ -8,7 +8,7 @@
 # Hola, soy Ignacio Catalán! 👋
 
 ## 🚀 Sobre mí
-¡Hola! soy estudiante de Ingeniería en Informática en Duoc UC (Chile).
+Soy estudiante de Ingeniería en Informática en Duoc UC (Chile).
 Mi enfoque principal es el desarrollo de soluciones prácticas y la creación de videojuegos. Me apasiona el Backend con Java (Spring Boot) y la automatización con Python. 
 
 *🕹️ **Game Dev**: En mis ratos libres, diseño mundos en Godot Engine y modelo activos en Blender (enfocado en Low Poly). Mi proyecto actual, Trash-Bot(Actualmente privado), es mi campo de pruebas para mecánicas experimentales.
