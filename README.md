@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-# Hola, soy Ignacio Catalán! 👋
+# Hola, soy Ignacio Catalán P! 👋
 
 ## 🚀 Sobre mí
 Soy estudiante de Ingeniería en Informática en Duoc UC (Chile).
